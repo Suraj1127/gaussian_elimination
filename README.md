@@ -9,4 +9,6 @@ solving systems of linear equations. It is usually understood as a sequence of o
 performed on the corresponding matrix of coefficients. This method can also be used to 
 find the rank of a matrix, to calculate the determinant of a matrix, and to calculate the 
 inverse of an invertible square matrix. The method is named after Carl Friedrich Gauss (1777–1855), 
-although it was known to Chinese mathematicians as early as 179 CE (see History section).
+although it was known to Chinese mathematicians as early as 179 CE.
+
+For more info, go to: https://en.wikipedia.org/wiki/Gaussian_elimination
