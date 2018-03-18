@@ -43,7 +43,7 @@ class Solve:
 				does not have unique finite solution
 			'''
 			if pivot == 0:
-				print("The system of equations do not have unique and finite solution.")
+				print("The system of equations does not have unique and finite solution.")
 				sys.exit()
 
 			# Transforms coefficient matrix to upper triangular matrix by doing Gaussian elimination
